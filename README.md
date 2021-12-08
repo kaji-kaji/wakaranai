@@ -19,4 +19,4 @@ public class Main {
     }
 }
 
-https://paiza.jp/works/mondai/steinsgate/quantity_of_experience_points_boss/edit?language_uid=java&t=612c716eea45f90e474c81c6fcaf9915
+性能解析タイプセーフ (paizaランク C 相当)
